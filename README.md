@@ -1,6 +1,6 @@
 # Sobre Mim
 
-- 👋 Olá, meu nome é @JoaoGustavoFalavinha
+- 👋 Olá, meu nome é **@JoaoGustavoFalavinha**
 - 👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem JavaScript e Scratch
 
